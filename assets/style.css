@@ -1,0 +1,12 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.custom-header {
+    background-color:dimgray ;
+    color:aliceblue;
+}
+
+.sidebar {
+    background-color: aliceblue;
+}

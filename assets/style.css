@@ -10,3 +10,19 @@ body {
 .sidebar {
     background-color: aliceblue;
 }
+
+.uv-low {
+    background-color: green;
+}
+
+.uv-med {
+    background-color: yellow;
+}
+
+.uv-high {
+    background-color: red;
+}
+
+.custom-card {
+    background-color: aliceblue;
+}

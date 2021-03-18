@@ -2,7 +2,7 @@
 
 It almost works!
 
-- Two successful API calls get data from [https://openweathermap.org/] -- first to get a city's latitude and longitude, then to get useable weather data based on that
+- Two successful API calls get data from https://openweathermap.org/ -- first to get a city's latitude and longitude, then to get useable weather data based on that
 - Current weather successfully populates using data from the API, and the UV index has a color indicating safety levels
 
 - Local storage...sort of does the thing. There are some issues with cities showing up in multiples.
